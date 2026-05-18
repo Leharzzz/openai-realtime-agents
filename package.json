@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@openai/agents": "^0.0.5",
-    "openai": "^4.77.3",
     "@radix-ui/react-icons": "^1.3.2",
     "dotenv": "^16.4.7",
     "next": "^15.3.1",
